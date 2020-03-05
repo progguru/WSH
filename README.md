@@ -19,6 +19,6 @@ General repository with links for WSH students
 
 >https://support.office.com/en-us/article/powerpoint-for-windows-training-40e8c930-cb0b-40d8-82c4-bd53d3398787?wt.mc_id=otc_home&ui=en-US&rs=en-US&ad=US
 
->Book: Dan Roam "Show and Tell: How Everybody Can Make Extraodinary Presentations"
+>**Book**: Dan Roam *Show and Tell: How Everybody Can Make Extraodinary Presentations*
 https://www.amazon.com/Show-Tell-Everybody-Extraordinary-Presentations/dp/1591848024
 
