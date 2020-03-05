@@ -18,4 +18,8 @@ Multimedia Presentations
 https://support.office.com/en-us/article/powerpoint-2013-videos-and-tutorials-bd93efc0-3582-49d1-b952-3871cde07d8a?wt.mc_id=otc_powerpoint&ui=en-US&rs=en-US&ad=US
 
 https://support.office.com/en-us/article/powerpoint-for-windows-training-40e8c930-cb0b-40d8-82c4-bd53d3398787?wt.mc_id=otc_home&ui=en-US&rs=en-US&ad=US
+
+Book: Dan Roam "Show and Tell: How Everybody Can Make Extraodinary Presentations"
+https://www.amazon.com/Show-Tell-Everybody-Extraordinary-Presentations/dp/1591848024
+
 =============================================
