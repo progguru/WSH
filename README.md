@@ -10,6 +10,10 @@ General repository with links for WSH students
 ## Programowanie Aplikacji Mobilnych
 >https://drive.google.com/drive/folders/12-yuOpverrYbx5JCu8qselYhlYrAcOSV?usp=sharing
 
+## Computer Networks
+>https://drive.google.com/drive/folders/1JxoOXNicG6A9Q-_6f7CA0fU6EOn0IyeU?usp=sharing
+
+
 ## Dyplomowanie
 >https://drive.google.com/drive/folders/1RJKb2xTcwymO2mFp-Oplgb9ZOyywiAp2?usp=sharing
 
